@@ -8,3 +8,17 @@
      
      fq.on("change",()=>{});
  
+
+# Events
+
+- change
+- fileQueued
+- error
+- uploadStart
+- uploadError
+- uploadComplete
+- uploadAccept
+- uploadSuccess
+- uploadComplete
+- md5Progress
+- md5Completed
